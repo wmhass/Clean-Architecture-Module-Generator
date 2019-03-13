@@ -7,6 +7,9 @@ Python script that generates clean architecture modules
 3. Type project name: This will appear on the top of the swift files (e.g. Guidebook)
 4. Type module name: The name of the module you are creating (e.g. Survey, Login...)
 
+## Class diagram
+![Class diagram](https://raw.githubusercontent.com/hvsw/Clean-Architecture-Module-Generator/master/Class%20diagram.png)
+
 ## Files templates:
 - Protocols templates: `./protocols`
 - Classes templates: `./concrete_classes`
