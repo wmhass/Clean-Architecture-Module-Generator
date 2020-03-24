@@ -7,7 +7,7 @@
 
 import Foundation
 
-class __EntityGateway {
+final class __EntityGateway {
     
 }
 
