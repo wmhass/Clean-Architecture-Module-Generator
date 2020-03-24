@@ -7,7 +7,7 @@
 
 import Foundation
 
-class __Presenter {
+final class __Presenter {
     
     weak var view: __View?
     let useCase: __UseCaseProtocol

@@ -7,7 +7,7 @@
 
 import Foundation
 
-class __UseCase {
+final class __UseCase {
     
     weak var presenter: __Presentable?
     let entityGateway: __EntityGatewayProtocol

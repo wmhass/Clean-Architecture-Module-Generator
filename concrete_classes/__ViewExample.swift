@@ -7,7 +7,7 @@
 
 import Foundation
 
-class __ViewExample {
+final class __ViewExample {
     var eventHandler: __ViewEventHandler?
 }
 

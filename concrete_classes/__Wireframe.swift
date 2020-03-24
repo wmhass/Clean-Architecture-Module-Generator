@@ -7,7 +7,7 @@
 
 import Foundation
 
-class __Wireframe {
+final class __Wireframe {
     
     func launch() {
         let view = __ViewExample()
